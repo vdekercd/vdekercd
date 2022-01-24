@@ -2,7 +2,5 @@
 
 ## I'm a :computer: .Net developer / :black_nib: Blogger / :mega: Speaker
 
-![](./diagram.svg)
-
 [WebSite]: https://damienvdk.com
 
