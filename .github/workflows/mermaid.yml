@@ -48,5 +48,13 @@ jobs:
           reviewers: ${{ github.actor }}
       - name: Check outputs
         run: |
+          # disable command workflow processing
+          echo "::stop-commands::`echo -n ${{ github.token }} | sha256sum | head -c 64`"
+
+          # log untrusted output
+          echo "untrusted output"
+
+          # enable workflow command processing
+          echo "::`echo -n ${{ github.token }} | sha256sum | head -c 64`::"
           echo "Pull Request Number - ${{ env.PULL_REQUEST_NUMBER }}"
           echo "Pull Request Number - ${{ steps.cpr.outputs.pr_number }}"
