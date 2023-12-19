@@ -11,6 +11,7 @@ Contributions in 2023
 
 |📆 Date | 📎Type | 🌍 Language | 📄 Description | 🔗 Link |
 | --- | --- | --- | --- | --- |
+| 12-19-2023 | Podcast | FR | Security in CI/CD - DevDevDev.Net | [Link to podcast](https://devdevdev.net/tr12-23-wasi-suivre-azure-ci-et-vulnerabilites-fluent-assertions-et-des-dindes-de-noel/) |
 | 12-03-2023 | Blog | EN | C# 12 — Primary Constructor: What can it bring to you? | [Link to article](https://medium.com/@damien.vandekerckhove/c-12-primary-constructor-what-can-it-bring-to-you-7ac84e01bc7a) |
 | 11-26-2023 | Blog | EN | C# — Checks for sufficient memory resources before executing an operation | [Link to article](https://medium.com/@damien.vandekerckhove/experienced-story-c-checks-for-sufficient-memory-resources-before-executing-an-operation-4a75e4bb00a0?sk=e9cd9162af3b4e83e5107227e10740bb) |
 | 11-22-2023 | Podcast | FR | GitHub Universe - DevDevDev.Net | [Link to podcast](https://devdevdev.net/tr11-23-github-universe-litedb-pi5-aspire-et-programmez-260/) |
