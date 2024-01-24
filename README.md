@@ -6,6 +6,13 @@
 
 [Old blog](https://damienvdk.com)
 
+Contributions in 2024
+---
+
+|📆 Date | 📎Type | 🌍 Language | 📄 Description | 🔗 Link |
+| --- | --- | --- | --- | --- |
+| 01-22-2024 | Blog | EN | Why You Shouldn’t Call BuildServiceProvider in .NET Development | [Link to article](https://medium.com/@damien.vandekerckhove/why-you-shouldnt-call-buildserviceprovider-in-net-development-8e25f680d529) |
+
 Contributions in 2023
 ---
 
