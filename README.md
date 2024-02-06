@@ -2,7 +2,7 @@
 
 ## I'm a :computer: .Net developer / :black_nib: Blogger / :mega: Speaker
 
-I am an experienced professional in software development and architecture, boasting nearly 15 years of expertise, with a focus on Microsoft technologies. Regularly, I publish articles on Medium.com, contribute to podcasts on DevDevDev.net, and occasionally impart my knowledge at conferences and events dedicated to computer development.
+I am an experienced professional in *software development and architecture*, boasting nearly 15 years of expertise, with a focus on *Microsoft technologies*. Regularly, I publish articles on *Medium.com*, contribute to podcasts on *DevDevDev.net*, and occasionally impart my knowledge at conferences and events dedicated to computer development.
 
 [My stories on medium](https://medium.com/@damien.vandekerckhove)
 
@@ -13,7 +13,7 @@ Contributions in 2024
 
 |📆 Date | 📎Type | 🌍 Language | 📄 Description | 🔗 Link |
 | --- | --- | --- | --- | --- |
-| 02-05-2024 | Podcast | FR | Azure App Configuration - DevDevDev.Net | [Link to article](https://devdevdev.net/tr01-24-benchmarkdotnet-monitoring-azure-deployment-stack-app-configuration-dev-drive-llm-en-local/) |
+| 02-05-2024 | Podcast | FR | Azure App Configuration - DevDevDev.Net | [Link to podcast](https://devdevdev.net/tr01-24-benchmarkdotnet-monitoring-azure-deployment-stack-app-configuration-dev-drive-llm-en-local/) |
 | 01-26-2024 | Magazine | FR | Programmez.com - Rédiger du code, une véritable forme d’art | [Link to article](https://www.programmez.com/magazine/article/rediger-du-code-une-veritable-forme-dart) |
 | 01-22-2024 | Blog | EN | Why You Shouldn’t Call BuildServiceProvider in .NET Development | [Link to article](https://medium.com/@damien.vandekerckhove/why-you-shouldnt-call-buildserviceprovider-in-net-development-8e25f680d529) |
 
