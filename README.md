@@ -2,6 +2,10 @@
 
 ## I'm a :computer: .Net developer / :black_nib: Blogger / :mega: Speaker
 
+<p align="center">
+  <img src="damienvdk.png" />
+</p>
+
 I am an experienced professional in *software development and architecture*, boasting nearly 15 years of expertise, with a focus on *Microsoft technologies*. Regularly, I publish articles on *Medium.com*, contribute to podcasts on *DevDevDev.net*, and occasionally impart my knowledge at conferences and events dedicated to computer development.
 
 [My stories on medium](https://medium.com/@damien.vandekerckhove)
