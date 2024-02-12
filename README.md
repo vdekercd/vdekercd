@@ -17,6 +17,7 @@ Contributions in 2024
 
 |📆 Date | 📎Type | 🌍 Language | 📄 Description | 🔗 Link |
 | --- | --- | --- | --- | --- |
+| 02-12-2024 | Blog | EN | Writing code, a true form of art | [Link to article](https://medium.com/@damien.vandekerckhove/writing-code-a-true-form-of-art-4c589d004010) |
 | 02-05-2024 | Podcast | FR | Azure App Configuration - DevDevDev.Net | [Link to podcast](https://devdevdev.net/tr01-24-benchmarkdotnet-monitoring-azure-deployment-stack-app-configuration-dev-drive-llm-en-local/) |
 | 01-26-2024 | Magazine | FR | Programmez.com - Rédiger du code, une véritable forme d’art | [Link to article](https://www.programmez.com/magazine/article/rediger-du-code-une-veritable-forme-dart) |
 | 01-22-2024 | Blog | EN | Why You Shouldn’t Call BuildServiceProvider in .NET Development | [Link to article](https://medium.com/@damien.vandekerckhove/why-you-shouldnt-call-buildserviceprovider-in-net-development-8e25f680d529) |
