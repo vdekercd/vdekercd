@@ -11,13 +11,26 @@ I am an experienced professional in *software development and architecture*, boa
 
 [My blog](https://damienvdk.com)
 
+
+Contributions in 2025
+---
+
+|📆 Date | 📎Type | 🌍 Language | 📄 Description | 🔗 Link |
+| --- | --- | --- | --- | --- |
+| 03-31-2025 | Blog | EN | Securing Access to Blob Storage: Authentication and Best Practicess | [Link to article](https://medium.com/@damien.vandekerckhove/securing-access-to-blob-storage-authentication-and-best-practices-b9217add5b4a) |
+| 03-30-2025 | Blog | EN | Writing clean code, a true form of art | [[Link to article](https://medium.com/@damien.vandekerckhove/writing-clean-code-a-true-form-of-art-00d85260d734) |
+| 02-17-2025 | Podcast | FR | Github Copilot - DevDevDev.Net | [Link to podcast](https://devdevdev.net/tr02-2025-fluent-assertions-github-copilot-les-50-ans-de-ms-peeble-os-et-le-go/) |
+| 01-19-2025 | Blog | EN | Mastering the SOLID Principles in C#: A Practical Guide with Examples | [Link to article](https://medium.com/@damien.vandekerckhove/mastering-the-solid-principles-in-c-a-practical-guide-with-examples-2bbf478d6b3f) |
+| 01-15-2025 | Podcast | FR | Azure Storage Account - DevDevDev.Net | [Link to podcast](https://devdevdev.net/tr01-2025-accessibilite-azure-storage-action-golden-master-et-agentic-ai/) |
+
 Contributions in 2024
 ---
 
 |📆 Date | 📎Type | 🌍 Language | 📄 Description | 🔗 Link |
 | --- | --- | --- | --- | --- |
+| 12-11-2024 | Local Event | EN | .Net Conf @ Brussels | |
+| 05-28-2024 | Podcast | FR | Retour sur la Microsoft Build 2024 - DevDevDev.Net | [Link to podcast](https://devdevdev.net/retour-sur-la-microsoft-build-2024) | 
 | 03-05-2024 | Podcast | FR | Chaos engineering avec Polly V8 | [Link to podcast](https://devdevdev.net/tr03-24-github-copilot-chaos-engeneering-llm-local/) | 
-| 02-12-2024 | Blog | EN | Writing code, a true form of art | [Link to article](https://medium.com/@damien.vandekerckhove/writing-code-a-true-form-of-art-4c589d004010) |
 | 02-05-2024 | Podcast | FR | Azure App Configuration - DevDevDev.Net | [Link to podcast](https://devdevdev.net/tr01-24-benchmarkdotnet-monitoring-azure-deployment-stack-app-configuration-dev-drive-llm-en-local/) |
 | 01-26-2024 | Magazine | FR | Programmez.com - Rédiger du code, une véritable forme d’art | [Link to article](https://www.programmez.com/magazine/article/rediger-du-code-une-veritable-forme-dart) |
 | 01-22-2024 | Blog | EN | Why You Shouldn’t Call BuildServiceProvider in .NET Development | [Link to article](https://medium.com/@damien.vandekerckhove/why-you-shouldnt-call-buildserviceprovider-in-net-development-8e25f680d529) |
