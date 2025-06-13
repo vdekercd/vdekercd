@@ -17,6 +17,7 @@ Contributions in 2025
 
 |📆 Date | 📎Type | 🌍 Language | 📄 Description | 🔗 Link |
 | --- | --- | --- | --- | --- |
+| 06-12-2025 | Video | FR | Interagir avec des modèles et des agents multimodaux dans Azure AI Foundry - Microsoft Reactor | [Link to video](https://www.youtube.com/watch?v=JMIpE3tdCvg&t=366s) |
 | 05-14-2025 | Podcast | FR | Azure AI Agent - DevDevDev.net | [Link to podcast](https://devdevdev.net/tr05-25-docker-ai-ai-agents-nfs-vs-smb-et-workload-identity-federation/) |
 | 04-11-2025 | Podcast | FR | XUnit V3 - DevDevDev.net | [Link to podcast](https://devdevdev.net/tr04-25-drama-autour-de-automapper-mediatr-xunit-v3-semantic-kernel/) |
 | 03-31-2025 | Blog | EN | Securing Access to Blob Storage: Authentication and Best Practicess | [Link to article](https://medium.com/@damien.vandekerckhove/securing-access-to-blob-storage-authentication-and-best-practices-b9217add5b4a) |
