@@ -17,6 +17,7 @@ Contributions in 2025
 
 |📆 Date | 📎Type | 🌍 Language | 📄 Description | 🔗 Link |
 | --- | --- | --- | --- | --- |
+| 06-19-2025 | Video | FR | Découverte des agents AI - Microsoft Reactor | [Link to video]([https://www.youtube.com/watch?v=JMIpE3tdCvg&t=366s](https://www.youtube.com/live/6DYFeOQavyk?si=8th0-q4V1LvDwqZJ)) |
 | 06-17-2025 | Local Event | EN | Github Copilot Bootcamp @ Brussels | |
 | 06-12-2025 | Video | FR | Interagir avec des modèles et des agents multimodaux dans Azure AI Foundry - Microsoft Reactor | [Link to video](https://www.youtube.com/watch?v=JMIpE3tdCvg&t=366s) |
 | 05-14-2025 | Podcast | FR | Azure AI Agent - DevDevDev.net | [Link to podcast](https://devdevdev.net/tr05-25-docker-ai-ai-agents-nfs-vs-smb-et-workload-identity-federation/) |
