@@ -16,6 +16,8 @@ Contributions in 2025
 
 |📆 Date | 📎Type | 🌍 Language | 📄 Description | 🔗 Link |
 | --- | --- | --- | --- | --- |
+| 08-21-2025 | Blog | EN | Agent2Agent (A2A) Protocol in C# | [Link to article](https://medium.com/@damien.vandekerckhove/agent2agent-a2a-protocol-in-c-af775a38b6d8?sk=9bb030830c6dde65a696f7070592c89d) |
+| 08-18-2025 | App | EN | A2AStudio : An open source app to test your AI Agent | [Link to app](https://a2astudio.net/) |
 | 06-19-2025 | Video | FR | Découverte des agents AI - Microsoft Reactor | [Link to video](https://www.youtube.com/watch?v=6DYFeOQavyk&pp=ygUabWljcm9zb2Z0IHJlYWN0b3IgYWdlbnQgaWE%3D) |
 | 06-17-2025 | Local Event | EN | Github Copilot Bootcamp @ Brussels | |
 | 06-12-2025 | Video | FR | Interagir avec des modèles et des agents multimodaux dans Azure AI Foundry - Microsoft Reactor | [Link to video](https://www.youtube.com/watch?v=JMIpE3tdCvg&t=366s) |
